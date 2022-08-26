@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Reflection;
 
-namespace microsoft.botsay
+namespace TeleprompterConsole
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
