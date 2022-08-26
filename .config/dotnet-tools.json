@@ -1,5 +1,12 @@
 {
   "version": 1,
   "isRoot": true,
-  "tools": {}
+  "tools": {
+    "microsoft.botsay": {
+      "version": "1.0.0",
+      "commands": [
+        "botsay"
+      ]
+    }
+  }
 }
