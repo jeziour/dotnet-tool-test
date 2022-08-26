@@ -1,5 +1,9 @@
 @ECHO OFF
 
-ECHO Hello World! Your first batch file was printed on the screen successfully. 
+ECHO Hello! Welcome to Dotnet Sample installing tool.
+ECHO ===============================================
+
+dotnet tool restore
+dotnet tool list
 
 PAUSE
